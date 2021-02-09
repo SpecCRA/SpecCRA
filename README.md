@@ -1,8 +1,5 @@
 ### Hello Viewers! I'm Ben Xiao
 
-<!--
-**SpecCRA/SpecCRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a data scientist based in San Francisco. I love to learn new ML applications, engineer data visualizations, tell data stories, and build tools for my hobbies: NBA analytics and sim racing.
 
 ### Current Projects & Study
