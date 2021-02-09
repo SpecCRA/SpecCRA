@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello Viewers! I'm Ben Xiao
 
 <!--
 **SpecCRA/SpecCRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a data scientist based in San Francisco. I love to learn new ML applications, engineer data visualizations, tell data stories, and build tools for my hobbies: NBA analytics and sim racing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects & Study
+* AlgoExpert problems
+* Master's Thesis: Building a simulation approach to assessing game tournament structures
+* Svelte.js for simple web apps targeted for data visualization stories
+
+### Social - Feel free to contact and connect with me!
+* [LinkedIn](https://www.linkedin.com/in/benjaminyxiao/)
+* [Twitter](https://twitter.com/SpecC)
