@@ -6,7 +6,7 @@ I'm a data scientist based in San Francisco. I love to learn new ML applications
 * AlgoExpert problems
 * Master's Thesis: Building a simulation approach to assessing game tournament structures
 * Svelte.js for simple web apps targeted for data visualization stories
-* DirT Rally 2.0 telemetry web app to view data
+* DirT Rally 2.0 telemetry web app
 
 ### Social - Feel free to contact and connect with me!
 * [LinkedIn](https://www.linkedin.com/in/benjaminyxiao/)
