@@ -5,6 +5,7 @@ I'm a data scientist based in San Francisco. I love to learn new ML applications
 ### Current Projects & Study
 * Master's Thesis: Building a simulation approach to assessing game tournament structures
 * Svelte.js for simple web apps targeted for data visualization stories
+* Data structures & Algorithms
 
 ### Social - Feel free to contact and connect with me!
 * [LinkedIn](https://www.linkedin.com/in/benjaminyxiao/)
